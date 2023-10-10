@@ -1,4 +1,4 @@
-public class HariKedua {
+public class HariKe02 {
     public static void main(String[] args) {
         int angka1 = 5;
         int angka2 = 7;
